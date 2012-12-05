@@ -1,4 +1,4 @@
 TripwireSentimentAnalysis
 =========================
 
-The Tripwire Sentiment Analysis Project
+The Tripwire Project
